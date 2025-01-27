@@ -26,3 +26,5 @@ fix_try:
 fix_apply:
 	fvm dart fix --apply
 
+flavor:
+	fvm flutter pub run flutter_flavorizr

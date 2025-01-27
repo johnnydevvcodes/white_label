@@ -1,0 +1,18 @@
+flavors:
+  appOne:
+    app:
+      name: "App One"
+
+    android:
+      applicationId: "com.whitelable.appone"  
+    ios:
+      bundleId: "com.whitelable.appone"
+
+  appTwo:
+    app:
+      name: "App Two"
+  
+    android:
+      applicationId: "com.whitelable.apptwo"  
+    ios:
+      bundleId: "com.whitelable.apptwo"
