@@ -1,16 +1,6 @@
 # white_label
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/13df45e8-af5d-4472-bf81-794e91f17cb1" width="375" height="812"/>
+<img src="https://github.com/user-attachments/assets/c262be22-25ce-4d48-9f85-e5989fe961aa" width="375" height="812"/>
+<img src="https://github.com/user-attachments/assets/50685568-ed18-4681-b7bd-0be109b980c6" width="375" height="200"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
