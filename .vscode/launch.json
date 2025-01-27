@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app_one",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_app_one.dart",
+            "args": [
+                "--flavor",
+                "app_one"
+            ]
+        },
+        {
+            "name": "app_two",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_app_two.dart",
+            "args": [
+                "--flavor",
+                "app_two"
+            ]
+        },
+    ]
+}
